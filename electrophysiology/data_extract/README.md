@@ -4,12 +4,14 @@
 
 This code is a generator of .mat file from .txt file saved for the experimental parameters.
 TC, and stimuli order in the experiment is converted.
+<br>
 shuf_param.txt -> shuf_param.mat
 
 
 ## data_extract_ver5.m
 
 LFP data and MUA data is extracted from the recorded data.
+<br>
 ns2, nev2 -> exdata_ex2.mat etc.
 
 
@@ -17,6 +19,7 @@ ns2, nev2 -> exdata_ex2.mat etc.
 
 This code is to produce the auditory response MUA.
 data2matrix3 function is used in this code.
+<br>
 exdata_ex2.mat -> evoke_res3.mat
 
 
