@@ -15,5 +15,5 @@ The sources code that Graph.py references. They are from Mono Wirelss inc., but 
 This code is for the video recording and music playback. This code is called from recording_start.py.
 
 # sound                     
-sound stimuli are stored in this directory. 
+sound stimuli (Mozart with 4 difference play speed, (75%, 100%, 200%, 400%)) are stored in this directory. 
 
