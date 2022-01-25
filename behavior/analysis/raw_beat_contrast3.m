@@ -1,12 +1,12 @@
 %% load music data
 cnames = ["s75","s100","s200","s400","off"];
 
-load('/Users/yoshiki/research/Tlab/code/sound/trigger/click_trg2.mat')
+load('../../electrophysiology/sound/click_trg2.mat')
 allbeats = reshape(onbeat.',1,33*4);
 allbeats(isnan(allbeats)) = [];
 allbeats2 = reshape(onbeat.',1,33*4);
 
-spath = "/Users/yoshiki/research/Tlab/behavior/code/accelerator/software/sound/speed/";
+spath = "../software/sound/speed/";
 
 rpnum = [1,1,2,4];
 rpnum1 = [1,1,1,4];
