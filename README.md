@@ -17,4 +17,5 @@ Directories are divided into five depending on the experiment.
 # License
 
 This source codes except Graph.py and MNLib follow MIT license.
+<br>
 Graph.py and MNLib follow the license below (https://twelite.gitbook.io/general/license/mw-sla).
