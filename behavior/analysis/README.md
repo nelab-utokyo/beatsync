@@ -1,6 +1,6 @@
 
 # acc_beat_contrast3.m
-checking the beat triggered behavior of rats. The jerk value around on beat timing and off beat timing is calcurated, and contrast between them is calcurated. (Fig.1d-f)
+checking the beat triggered behavior of rats. The jerk value around on beat timing and off beat timing is calculated, and contrast between them is calculated. (Fig.1d-f)
 
 # acc_beat_contrast3_human.m
 checking the beat triggered behavior of humans. The code structure is basically the same as acc_beat_contrast3.m. (Extended Data Fig. 1)
