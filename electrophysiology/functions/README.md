@@ -2,7 +2,7 @@
 
 the code for tune curve analysis.
 The variable about Spike latency is saved.
-Paralell function is recommended to use.
+Parallel function is recommended to use.
 
 
 # CF_latency.m
