@@ -1,9 +1,5 @@
-# csv2matfile2.m
-The code for transforming acceleration data (CSV) to matfile
-
-
 # make_video.py
-making video from the collection of photos. 
+making video from the collection of photos. (related to Movie S1)
 
 # video_edit.py
 Put the frame number on the existing movie. 
@@ -15,6 +11,10 @@ Extracting the specific frames of movie (such as beat synchronization behavior)
 Counting the total number of frames of a movie.
 Putting the frame number on the existing movie is also possible. 
 
+# detect_opject_human.py
+The detection of acceleration holder in the human experiment with video recording.
 
-# csv2matfile.m (Old version, without click information)
-The code for transforming acceleration data (CSV) to matfile. 
+# video_pkup_human.py
+Extracting the original playback speed condtion from the movie of human participants. 
+
+
