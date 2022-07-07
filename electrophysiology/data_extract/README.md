@@ -23,7 +23,11 @@ exdata_ex2.mat -> evoke_res3.mat
 # Procesure
 
 1, Implement TonotopicMap_ALL_uta2016 to get Characteristic frequency of each electrode.
+<br>
 2, Manually make shuffle_parameters.txt and write down the electrode number with tune curve, and music order.
+<br>
 3, Implement shuf_param2.py and obtain shuf_param.mat.
+<br>
 4, Implement data_extract_ver5.m to trim the related data and save it in .mat file.
+<br>
 5, Implement evoked_response.m to calcurate the evoked MUA.
