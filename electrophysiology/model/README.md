@@ -4,7 +4,7 @@
 
 The code for present model, Drew & Abbott (2006) and Zuk et. al. (2018).
 Use "set_threshold.m" and "regionmap.m" in "primary" directory to generate the necessary variable for this fitting. 
-(Fig. 4D-G)
+(Fig. 4D-G, Fig. S8)
 
 
 ## pdata_model_region.m
