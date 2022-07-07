@@ -40,7 +40,7 @@ main function for processing individual data.
 ## alldata_plot.m
 
 main function for plotting the whole individual data.
-<br>responsep, responsef, responsem -> plot (Fig. 3C-E, Fig. 4C)
+<br>responsep, responsef, responsem -> plot (Fig. 3C-E, Fig. 4C, Fig.S6B, Fig. S7B)
 
 ## contrast_map.m
 
@@ -51,7 +51,7 @@ analyze the beat contrast depending on the region.
 ## individual_plot.m
 
 Plot the individual data.
-<br>responsep, responsef, responsem -> plot (Fig. 3B, Fig. 4B, Fig. S5A)
+<br>responsep, responsef, responsem -> plot (Fig. 3B, Fig. 4B, Fig. S5A, Fig. S7)
 
 ## random_rawplot.m
 
