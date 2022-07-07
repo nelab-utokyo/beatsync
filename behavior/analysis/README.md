@@ -12,7 +12,7 @@ Analysing the video data of human experiment with video recording. (Fig.S1A, S1B
 Analysing the jerk data of human experiment with video recording. (Fig.S1C)
 
 # peak_rat_human4.m
-checking the acceleration raw data.  The jerk value around on beat sound is taken into account. This code is for making video clip and extracting beat synchronous behavior. (Fig.2)
+checking the acceleration raw data.  The jerk value around on beat sound is taken into account. This code is for making video clip and extracting beat synchronous behavior. (Fig.2, Fig.S4)
 
 # raw_beat_contrast4.m
 Checking the daily difference of jerk beat contrast of rats. (Fig.1C, 1G)
