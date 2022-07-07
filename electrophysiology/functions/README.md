@@ -7,7 +7,7 @@ Paralell function is recommended to use.
 
 # CF_latency.m
 
-Original function for detecting the CF and latency.
+The function for detecting the CF and latency.
 This function should be done after the TC analysis.
 This function is counting the number of first spike.
 Manually checking the raster plot is recommended.
@@ -16,11 +16,11 @@ CF_latency.mat is created in TC directory.
 
 # data2matrix2.m
 
-Calculating the 5-30 ms MUA with no subtraction.
-Data and the trigger timing is needed
+Calculating the 5-30 ms MUA with no subtraction. Used for the assessment of adaptation models.
+Data and the trigger timing is needed.
 
 
 # data2matrix3.m
 
-Calculating the 5-30 ms MUA subtracted by 0-4ms MUA.
-Data and the trigger timing is needed
+Calculating the 5-30 ms MUA subtracted by 0-4ms MUA. Used for the assessment of neural beat contrast.
+Data and the trigger timing is needed.
