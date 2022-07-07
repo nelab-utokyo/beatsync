@@ -1,5 +1,5 @@
 # Overview
-This is the source code for "Innate beat synchronisation in rat", Ito et. al..
+This is the source code for "Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment", Ito et. al..
 
 Directories are divided into five depending on the experiment.
 <br>
@@ -9,6 +9,8 @@ Directories are divided into five depending on the experiment.
   * The codes related to analysis of electrophysiological experiment.
 * humdrum
   * The codes related to musical analysis.
+* sound
+  * The analysis of musical piece
 * stand
   * The codes related to standing rat experiment.
 <br>
